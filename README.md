@@ -12,3 +12,7 @@ A web-based hotel booking platform using PHP and MySQL.
 - PHP
 - MySQL (phpMyAdmin)
 - HTML, CSS, JavaScript
+
+<img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/42f67f80-68c5-4f2a-bbc1-d88fa72e3857" />
+
+
